@@ -4,7 +4,7 @@
  * @Date: 2021-10-27 19:18:46
  * @Url: https://u.mr90.top
  * @github: https://github.com/rr210
- * @LastEditTime: 2021-10-28 16:42:34
+ * @LastEditTime: 2021-10-29 09:20:24
  * @LastEditors: Harry
  */
 const seller = {
@@ -21,7 +21,7 @@ const seller = {
     left: '3%',
     right: '6%',
     bottom: '3%',
-    containLable: true
+    containLabel: true
   },
   xAxis: {
     type: 'value'
