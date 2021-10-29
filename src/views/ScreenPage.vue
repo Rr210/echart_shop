@@ -134,6 +134,9 @@ export default {
     flex: 25%;
     display: flex;
     flex-direction: column;
+    .item_w{
+      position: relative;
+    }
   }
 }
 </style>
